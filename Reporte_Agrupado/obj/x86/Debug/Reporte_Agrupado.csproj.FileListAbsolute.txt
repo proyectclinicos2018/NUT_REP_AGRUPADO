@@ -1,0 +1,55 @@
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Frm_Agurpar_alimentos.resources
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Properties.Resources.resources
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\PreparacionDroga.FrmImprime.resources
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.exe.config
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.exe
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.pdb
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.exe
+C:\Users\emanuel.islas\Documents\Visual Studio 2010\Projects\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.exe.config
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.exe
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.exe
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Frm_Agurpar_alimentos.resources
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Properties.Resources.resources
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\PreparacionDroga.FrmImprime.resources
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.exe.config
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.exe
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.pdb
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.exe
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.pdb
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Frm_Agurpar_alimentos.resources
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Properties.Resources.resources
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\PreparacionDroga.FrmImprime.resources
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emanuel.islas\Desktop\Versiones\02_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.exe.config
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.exe
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.pdb
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.exe
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\Reporte_Agrupado.pdb
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Frm_Agurpar_alimentos.resources
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Properties.Resources.resources
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\PreparacionDroga.FrmImprime.resources
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Nutricion\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Frm_Agurpar_alimentos.resources
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\Reporte_Agrupado.Properties.Resources.resources
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\PreparacionDroga.FrmImprime.resources
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\NUT002C.exe.config
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\NUT002C.exe
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\bin\Debug\NUT002C.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\NUT002C.exe
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Escritorios\Nutricion\Escritorio\Reporte_Agrupado\Reporte_Agrupado\obj\x86\Debug\NUT002C.pdb
